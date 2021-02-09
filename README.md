@@ -1,2 +1,2 @@
 # regex_hackerrank
- Regex appliacations of hackerrank
+ Regex applications of hackerrank
